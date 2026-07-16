@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Java, OOP's**
 
-- 📫 How to reach me **prathameshhatkar07@gmail.com**
+- 📫 How to reach me **hatkarprathamesh012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
