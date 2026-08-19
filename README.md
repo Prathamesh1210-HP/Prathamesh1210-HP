@@ -1,25 +1,219 @@
-<h1 align="center">Hi 👋, I'm Prathmesh Hatkar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">👋 Hi, I'm Prathamesh Hatkar</h1>
 
-- 🔭 I’m currently working on [NOVA](https://github.com/Prathamesh1210-HP/NOVA.git)
+<h3 align="center">🐍 Python Developer | ☁️ AWS Cloud Enthusiast | 💻 Software Developer</h3>
 
-- 🌱 I’m currently learning **AWS Cloud computing**
-
-- 💬 Ask me about **Python, Java, OOP's**
-
-- 📫 How to reach me **hatkarprathamesh012@gmail.com** 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-hatkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prathamesh-hatkar/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prathameshhatkar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathameshhatkar07" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;AWS+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Building+Real+World+Projects+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%94%A5" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prathamesh1210-HP&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamesh1210-hp&show_icons=true&locale=en&layout=compact" alt="Prathamesh1210-hp" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prathamesh1210-hp&show_icons=true&locale=en" alt="https://github.com/Prathamesh1210-HP" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh1210-hp&" alt="Prathamesh1210-hp" /></p>
+```python
+class Prathamesh:
+
+    name = "Prathamesh Hatkar"
+    education = "MCA"
+    role = "Aspiring Software Developer"
+
+    skills = [
+        "Python",
+        "AWS",
+        "DSA",
+        "Git & GitHub",
+        "Backend Development"
+    ]
+
+    currently_learning = [
+        "AWS Cloud Computing",
+        "Python DSA",
+        "Backend Development"
+    ]
+
+    goal = "Build impactful software & become a great developer 🚀"
+```
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,aws,linux,mysql,sqlite,vscode" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Prathamesh1210-HP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh1210-HP&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Prathamesh1210-HP&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prathamesh1210-HP&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh1210-HP&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Prathamesh1210-HP/Prathamesh1210-HP/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table align="center">
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🤖 NOVA</h3>
+
+<p align="center">
+AI Assistant built with Python
+</p>
+
+<p align="center">
+🐍 Python • 🤖 AI • 🔌 APIs
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">☁️ AWS Cloud Project</h3>
+
+<p align="center">
+Cloud infrastructure & deployment project
+</p>
+
+<p align="center">
+☁️ AWS • 🐧 Linux • 🌐 Web
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">📋 Smart Task Manager</h3>
+
+<p align="center">
+Smart task management application
+</p>
+
+<p align="center">
+🐍 Python • 🗄️ SQLite • 🤖 AI
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">💻 More Projects</h3>
+
+<p align="center">
+Check out my repositories for more projects.
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯Goals
+
+```text
+🐍 Master Python
+        ↓
+🧩 Master DSA
+        ↓
+☁️ Strengthen AWS
+        ↓
+💻 Build Production Projects
+        ↓
+🚀 Become a Strong Software Developer
+```
+
+---
+
+# 💻 Coding Philosophy
+
+<p align="center">
+
+> <b>Code.</b> 🧑‍💻 <b>Break.</b> 💥 <b>Debug.</b> 🔧 <b>Learn.</b> 🧠 <b>Build Again.</b> 🚀
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Prathamesh1210-HP">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">🔥 Keep Building. Keep Learning. Keep Growing. 🚀</h2>
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
