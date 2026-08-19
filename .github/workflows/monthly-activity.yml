@@ -1,0 +1,84 @@
+name: Update Monthly GitHub Activity
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "15 0 1 * *"
+      timezone: "Asia/Kolkata"
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update monthly activity graph
+        shell: bash
+        run: |
+          YEAR=$(date +%Y)
+          MONTH=$(date +%m)
+
+          START_DATE="${YEAR}-${MONTH}-01"
+
+          NEXT_MONTH=$(date -d "${START_DATE} +1 month" +%Y-%m-01)
+          END_DATE=$(date -d "${NEXT_MONTH} -1 day" +%Y-%m-%d)
+
+          MONTH_NAME=$(date -d "${START_DATE}" +"%B %Y")
+
+          GRAPH_URL="https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh1210-HP&from=${START_DATE}&to=${END_DATE}&theme=tokyo-night&hide_border=true&area=true&radius=12&height=300&custom_title=Prathamesh's%20GitHub%20Activity"
+
+          python - <<PY
+          from pathlib import Path
+
+          path = Path("README.md")
+          text = path.read_text(encoding="utf-8")
+
+          start = "<!-- MONTHLY_ACTIVITY_START -->"
+          end = "<!-- MONTHLY_ACTIVITY_END -->"
+
+          new_section = f"""<!-- MONTHLY_ACTIVITY_START -->
+          ## 📈 GitHub Activity — {MONTH_NAME}
+
+          <p align="center">
+            <a href="https://github.com/Prathamesh1210-HP">
+              <img
+                src="{GRAPH_URL}"
+                width="95%"
+              />
+            </a>
+          </p>
+
+          <!-- MONTHLY_ACTIVITY_END -->"""
+
+          if start in text and end in text:
+              before = text.split(start)[0]
+              after = text.split(end, 1)[1]
+
+              text = before + new_section + after
+
+              path.write_text(text, encoding="utf-8")
+          else:
+              raise SystemExit(
+                  "Monthly activity markers were not found in README.md"
+              )
+          PY
+
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "📈 Update monthly GitHub activity"
+            git push
+          fi
