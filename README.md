@@ -85,13 +85,12 @@ class Prathamesh:
 # 📈 Contribution Graph
 
 <!-- MONTHLY_ACTIVITY_START -->
-
 ## 📈 GitHub Activity — August 2026
 
 <p align="center">
   <a href="https://github.com/Prathamesh1210-HP">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh1210-HP&from=2026-08-01&to=2026-08-31&theme=tokyo-night&hide_border=true&area=true&radius=12&height=300&custom_title=Prathamesh's%20GitHub%20Activity"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh1210-HP&from=2026-08-01&to=2026-08-31&theme=tokyo-night&hide_border=true&area=true&radius=12&height=300&custom_title=Prathamesh%27s%20GitHub%20Activity"
       width="95%"
     />
   </a>
