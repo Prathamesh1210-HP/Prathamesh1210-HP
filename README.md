@@ -52,10 +52,14 @@ class Prathamesh:
 
 # 🔥 GitHub Streak
 
+## 🔥 GitHub Streak
+
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Prathamesh1210-HP&theme=tokyonight&hide_border=true" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.vercel.app/?user=Prathamesh1210-HP&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.vercel.app/?user=Prathamesh1210-HP&theme=default" />
+    <img src="https://streak-stats.vercel.app/?user=Prathamesh1210-HP&theme=default" alt="GitHub Streak" />
+  </picture>
 </p>
 
 ---
