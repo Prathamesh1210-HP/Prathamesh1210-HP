@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-```python
+```Python
 class Prathamesh:
 
     name = "Prathamesh Hatkar"
