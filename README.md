@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Prathamesh Hatkar</h1>
 
-<h3 align="center">🐍 Python Developer | ☁️ AWS Cloud Enthusiast | 💻 Software Developer</h3>
+<h3 align="center">🐍 Python Developer | ☁️ AWS Cloud Enthusiast | 💻 Software Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;AWS+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Building+Real+World+Projects+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%94%A5" />
