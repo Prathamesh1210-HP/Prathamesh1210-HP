@@ -1,4 +1,4 @@
- <h1 align="center">👋 Hi, I'm Prathamesh Hatkar</h1>
+<h1 align="center">👋 Hi, I'm Prathamesh Hatkar</h1>
 
 <h3 align="center">🐍 Python Developer | ☁️ AWS Cloud Enthusiast | 💻 Software Developer </h3>
 
